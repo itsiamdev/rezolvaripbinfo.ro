@@ -11,7 +11,7 @@ Acest proiect reprezintă un site web dedicat soluțiilor pentru problemele de i
 
 ## 🌐 Demo
 
-Poți accesa versiunea live a site-ului la: [https://iam269.github.io/rezolvaripbinfo.ro/](https://iam269.github.io/rezolvaripbinfo.ro/)
+Poți accesa versiunea live a site-ului la: [https://itsiamdev.github.io/rezolvaripbinfo.ro/](https://itsiamdev.github.io/rezolvaripbinfo.ro/)
 
 ## 🚀 Cum să folosești
 
